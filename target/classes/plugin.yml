@@ -1,0 +1,20 @@
+name: PluginsCoden
+version: '1.0-SNAPSHOT'
+main: de.mecrytv.pluginscoden.PluginsCoden
+author: MecryTv
+api-version: '1.19'
+commands:
+  gm:
+    permission: de.mecrytv.gm
+    usage: /gm <0|1|2|3>
+  items:
+    permission: de.mecrytv.items
+
+  fly:
+    permission: de.mecrytv.fly
+
+  adminitems:
+    permission: de.mecrytv.adminitems
+
+  timer:
+    permission: de.mecrytv.timer
